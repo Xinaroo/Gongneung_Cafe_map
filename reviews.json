@@ -1,0 +1,103 @@
+[
+  {
+    "id": "1716471803271",
+    "cafeId": "",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "12"
+  },
+  {
+    "id": "1716471876666",
+    "cafeId": "",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "12"
+  },
+  {
+    "id": "1716471884939",
+    "cafeId": "",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "12"
+  },
+  {
+    "id": "1716773203427",
+    "cafeId": "cafe1",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "맛있어요!",
+    "rating": 5
+  },
+  {
+    "id": "1716776324779",
+    "cafeId": "cafe1",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "공부하기 좋아요",
+    "rating": 4
+  },
+  {
+    "id": "1716776480548",
+    "cafeId": "cafe1",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "뿅",
+    "rating": 3
+  },
+  {
+    "id": "1716776763154",
+    "cafeId": "cafe1",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "ddd",
+    "rating": 0
+  },
+  {
+    "id": "1716877860491",
+    "cafeId": "cafe1",
+    "nickname": "ㅇㅇ",
+    "password": "11",
+    "content": "너무 맛있어요!",
+    "rating": 5
+  },
+  {
+    "id": "1717067615132",
+    "cafeId": "cafe2",
+    "nickname": "ㅇㅇ",
+    "password": "11",
+    "content": "맛있어요!",
+    "rating": 5
+  },
+  {
+    "id": "1717067635758",
+    "cafeId": "cafe3",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "분위기가 예뻐요",
+    "rating": 4
+  },
+  {
+    "id": "1717067650315",
+    "cafeId": "cafe4",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "커피가 매우 맛있어요",
+    "rating": 4
+  },
+  {
+    "id": "1717067670169",
+    "cafeId": "cafe5",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "좋아요",
+    "rating": 5
+  },
+  {
+    "id": "1717067686342",
+    "cafeId": "cafe6",
+    "nickname": "ㅇㅇ",
+    "password": "12",
+    "content": "에스프레소 안좋아하면 힘들어요",
+    "rating": 2
+  }
+]

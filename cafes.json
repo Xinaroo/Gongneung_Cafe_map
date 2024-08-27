@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "cafe1",
+    "name": "블루마일스커피로스터즈",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "12:00-3:00",
+      "화": "12:00-3:00",
+      "수": "12:00-3:00",
+      "목": "12:00-3:00",
+      "금": "12:00-3:00",
+      "토": "12:00-3:00",
+      "일": "12:00-3:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4800,
+    "lattePrice": 5800,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "피콜로 아이스크림 라떼",
+      "price": 7000
+    },
+    "additionalMenu2": {
+      "name": "너티 블루",
+      "price": 5000
+    },
+    "dessert1": {
+      "name": "빵",
+      "price": 3300
+    },
+    "dessert2": {
+      "name": "바스크치즈케이",
+      "price": 4500
+    },
+    "image": "uploads/1717076685553-cafe1.jpg"
+  },
+  {
+    "id": "cafe2",
+    "name": "무이로 커피",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "11:00-24:00",
+      "화": "11:00-24:00",
+      "수": "11:00-24:00",
+      "목": "11:00-24:00",
+      "금": "11:00-24:00",
+      "토": "11:00-24:00",
+      "일": "11:00-24:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": 0,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "필터커피",
+      "price": 6000
+    },
+    "additionalMenu2": {
+      "name": "무카페인 보리 아메리카노",
+      "price": 5500
+    },
+    "dessert1": {
+      "name": "테린느",
+      "price": 4000
+    },
+    "dessert2": {
+      "name": "과일 파블로바",
+      "price": 9000
+    },
+    "image": "uploads/cafe2.jpg"
+  },
+  {
+    "id": "cafe3",
+    "name": "에이프릴사워",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "휴무",
+      "화": "10:30-22:00",
+      "수": "10:30-22:00",
+      "목": "10:30-22:00",
+      "금": "10:30-22:00",
+      "토": "10:30-22:00",
+      "일": "10:30-22:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4300,
+    "lattePrice": 4800,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "에이프릴 선셋",
+      "price": 6300
+    },
+    "additionalMenu2": {
+      "name": "오션라떼",
+      "price": 6300
+    },
+    "dessert1": {
+      "name": "애플크럼블 치즈케이크",
+      "price": 6800
+    },
+    "dessert2": {
+      "name": "",
+      "price": null
+    },
+    "image": "uploads/cafe3.jpg"
+  },
+  {
+    "id": "cafe4",
+    "name": "비스킷플로어",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "8:00-19:00",
+      "화": "8:00-19:00",
+      "수": "8:00-19:00",
+      "목": "8:00-19:00",
+      "금": "8:00-19:00",
+      "토": "8:00-19:00",
+      "일": "8:00-19:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4000,
+    "lattePrice": 4500,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": 0,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "비스킷라떼(흑설탕+구운소금)",
+      "price": 4500
+    },
+    "additionalMenu2": {
+      "name": "어른들의 초코라떼",
+      "price": 5500
+    },
+    "dessert1": {
+      "name": "비스킷 쿠키",
+      "price": 3300
+    },
+    "dessert2": {
+      "name": "",
+      "price": null
+    },
+    "image": "uploads/cafe4.jpg"
+  },
+  {
+    "id": "cafe5",
+    "name": "호이폴로이 커피로스터스",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "10:00-20:00",
+      "화": "10:00-20:00",
+      "수": "10:00-20:00",
+      "목": "10:00-20:00",
+      "금": "10:00-20:00",
+      "토": "10:00-20:00",
+      "일": "10:00-20:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 3800,
+    "lattePrice": 4500,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "핸드드립",
+      "price": 5000
+    },
+    "additionalMenu2": {
+      "name": "에스프레소 마끼야또",
+      "price": 3500
+    },
+    "dessert1": {
+      "name": "소금빵",
+      "price": 3000
+    },
+    "dessert2": {
+      "name": "커피피칸 마들렌",
+      "price": 3200
+    },
+    "image": "uploads/cafe5.jpg"
+  },
+  {
+    "id": "cafe6",
+    "name": "베비아모",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "11:00-19:00",
+      "화": "휴무",
+      "수": "11:00-19:00",
+      "목": "11:00-19:00",
+      "금": "11:00-19:00",
+      "토": "11:00-18:30",
+      "일": "11:00-18:30"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 3000,
+    "lattePrice": 3000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "시그니처 에스프레소",
+      "price": 2500
+    },
+    "additionalMenu2": {
+      "name": "온더락(에스프레소+얼음)",
+      "price": 4000
+    },
+    "dessert1": {
+      "name": "",
+      "price": null
+    },
+    "dessert2": {
+      "name": "",
+      "price": null
+    },
+    "image": "uploads/cafe6.jpg"
+  },
+  {
+    "id": "cafe7",
+    "name": "메트로폴리스",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "10:00-24:00",
+      "화": "10:00-24:00",
+      "수": "10:00-24:00",
+      "목": "10:00-24:00",
+      "금": "10:00-24:00",
+      "토": "10:00-24:00",
+      "일": "10:00-24:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 3900,
+    "lattePrice": 4500,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": 0,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "플랫치노",
+      "price": 5500
+    },
+    "additionalMenu2": {
+      "name": "밀크티",
+      "price": 6500
+    },
+    "dessert1": {
+      "name": "패스츄리",
+      "price": 3000
+    },
+    "dessert2": {
+      "name": "황 폴 카스텔라",
+      "price": 10000
+    },
+    "image": "uploads/cafe7.jpg"
+  },
+  {
+    "id": "cafe8",
+    "name": "어빌리티커피",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "10:00-23:00",
+      "화": "10:00-23:00",
+      "수": "10:00-23:00",
+      "목": "10:00-23:00",
+      "금": "10:00-23:00",
+      "토": "10:00-23:00",
+      "일": "10:00-23:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4000,
+    "lattePrice": 4500,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "어빌리티 커피",
+      "price": 5000
+    },
+    "additionalMenu2": {
+      "name": "필터커피",
+      "price": 5000
+    },
+    "dessert1": {
+      "name": "쿠키",
+      "price": 3500
+    },
+    "dessert2": {
+      "name": "바스크치즈케이크",
+      "price": 5500
+    },
+    "image": "uploads/cafe8.jpg"
+  },
+  {
+    "id": "cafe9",
+    "name": "위플랜트위커피",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "15:00-23:00",
+      "화": "15:00-23:00",
+      "수": "15:00-23:00",
+      "목": "15:00-23:00",
+      "금": "15:00-23:00",
+      "토": "11:00-23:00",
+      "일": "11:00-23:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "플랜트라떼",
+      "price": 6500
+    },
+    "additionalMenu2": {
+      "name": "다크체리 아이스티",
+      "price": 5500
+    },
+    "dessert1": {
+      "name": "아이스크림 크로플",
+      "price": 9500
+    },
+    "dessert2": {
+      "name": "쿠키",
+      "price": 4300
+    },
+    "image": "uploads/cafe9.jpg"
+  },
+  {
+    "id": "cafe10",
+    "name": "코타브레드",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "09:30-22:00",
+      "화": "09:30-22:00",
+      "수": "09:30-22:00",
+      "목": "09:30-22:00",
+      "금": "09:30-22:00",
+      "토": "09:30-22:00",
+      "일": "09:30-22:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 5300,
+    "lattePrice": 5800,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": 0,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "아몬드크림라떼",
+      "price": 6800
+    },
+    "additionalMenu2": {
+      "name": "딸기라떼",
+      "price": 7500
+    },
+    "dessert1": {
+      "name": "소금빵",
+      "price": 3100
+    },
+    "dessert2": {
+      "name": "",
+      "price": null
+    },
+    "image": "uploads/cafe10.jpg"
+  },
+  {
+    "id": "cafe11",
+    "name": "우아즈",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "12:00-21:00",
+      "화": "12:00-21:00",
+      "수": "휴무",
+      "목": "12:00-21:00",
+      "금": "12:00-21:00",
+      "토": "12:00-21:00",
+      "일": "12:00-21:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4000,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "타이 홍차 밀크티",
+      "price": 5500
+    },
+    "additionalMenu2": {
+      "name": "우아즈 에이드",
+      "price": 6500
+    },
+    "dessert1": {
+      "name": "아이스크림 시나몬 초코 츄러스",
+      "price": 5500
+    },
+    "dessert2": {
+      "name": "얼그레이 케이크",
+      "price": 7500
+    },
+    "image": "uploads/cafe11.jpg"
+  },
+  {
+    "id": "cafe12",
+    "name": "플랫 커피",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "12:00-23:00",
+      "화": "12:00-23:00",
+      "수": "12:00-23:00",
+      "목": "12:00-23:00",
+      "금": "12:00-23:00",
+      "토": "12:00-23:00",
+      "일": "12:00-23:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "엘라도 라떼",
+      "price": 6000
+    },
+    "additionalMenu2": {
+      "name": "피스타치오 비엔나",
+      "price": 6000
+    },
+    "dessert1": {
+      "name": "소금빵+카이막",
+      "price": 4500
+    },
+    "dessert2": {
+      "name": "바나나푸딩",
+      "price": 6200
+    },
+    "image": "uploads/cafe12.jpg"
+  },
+  {
+    "id": "cafe13",
+    "name": "브릴란테",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "10:00-21:50",
+      "화": "10:00-21:50",
+      "수": "10:00-21:50",
+      "목": "10:00-21:50",
+      "금": "10:00-21:50",
+      "토": "10:00-21:50",
+      "일": "10:00-21:50"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "흑임자라떼",
+      "price": 6500
+    },
+    "additionalMenu2": {
+      "name": "망고패션후르츠에이드",
+      "price": 6300
+    },
+    "dessert1": {
+      "name": "케이크",
+      "price": 6000
+    },
+    "dessert2": {
+      "name": "",
+      "price": null
+    },
+    "image": "uploads/cafe13.jpg"
+  },
+  {
+    "id": "cafe14",
+    "name": "딜리스",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "10:00-22:00",
+      "화": "휴무",
+      "수": "10:00-22:00",
+      "목": "10:00-22:00",
+      "금": "10:00-22:00",
+      "토": "10:00-22:00",
+      "일": "10:00-22:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "바닐라라떼",
+      "price": 6000
+    },
+    "additionalMenu2": {
+      "name": "말차라떼",
+      "price": 6000
+    },
+    "dessert1": {
+      "name": "피스타치오 라즈베리 치즈케이크",
+      "price": 6500
+    },
+    "dessert2": {
+      "name": "피낭시에",
+      "price": 2900
+    },
+    "image": "uploads/cafe14.jpg"
+  },
+  {
+    "id": "cafe15",
+    "name": "커피스피릿",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "11:00-22:00",
+      "화": "휴무",
+      "수": "11:00-22:00",
+      "목": "11:00-22:00",
+      "금": "11:00-22:00",
+      "토": "11:00-22:00",
+      "일": "11:00-22:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "버터스카치크림라떼",
+      "price": 6000
+    },
+    "additionalMenu2": {
+      "name": "바질토마토에이드",
+      "price": 6000
+    },
+    "dessert1": {
+      "name": "클래식 티라미수",
+      "price": 6500
+    },
+    "dessert2": {
+      "name": "딸기 판나코타",
+      "price": 5500
+    },
+    "image": "uploads/cafe15.jpg"
+  },
+  {
+    "id": "cafe16",
+    "name": "피에스타7커피",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "09:00-22:00",
+      "화": "09:00-22:00",
+      "수": "09:00-22:00",
+      "목": "09:00-22:00",
+      "금": "09:00-22:00",
+      "토": "10:00-22:00",
+      "일": "10:00-22:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 1500,
+    "lattePrice": 2700,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": null,
+      "franchise": 0,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "아이스크림라떼",
+      "price": 4500
+    },
+    "additionalMenu2": {
+      "name": "버터스카치라떼",
+      "price": 3700
+    },
+    "dessert1": {
+      "name": "순수우유케이크",
+      "price": 4500
+    },
+    "dessert2": {
+      "name": "",
+      "price": null
+    },
+    "image": "uploads/cafe16.jpg"
+  },
+  {
+    "id": "cafe17",
+    "name": "라라브레드",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "10:00-21:00",
+      "화": "10:00-21:00",
+      "수": "10:00-21:00",
+      "목": "10:00-21:00",
+      "금": "10:00-21:00",
+      "토": "10:00-21:00",
+      "일": "10:00-21:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": 0,
+      "franchise": 0,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "크림라떼",
+      "price": 5800
+    },
+    "additionalMenu2": {
+      "name": "딸기라떼",
+      "price": 5800
+    },
+    "dessert1": {
+      "name": "명란 바게트",
+      "price": 4000
+    },
+    "dessert2": {
+      "name": "샌드위치",
+      "price": 13000
+    },
+    "image": "uploads/cafe17.jpg"
+  },
+  {
+    "id": "cafe18",
+    "name": "갤러리카페봉프레",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "10:00-22:00",
+      "화": "10:00-22:00",
+      "수": "10:00-22:00",
+      "목": "10:00-22:00",
+      "금": "10:00-22:00",
+      "토": "10:00-22:00",
+      "일": "10:00-22:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 2500,
+    "lattePrice": 3000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "봉프레라떼",
+      "price": 3500
+    },
+    "additionalMenu2": {
+      "name": "얼그레이 차",
+      "price": 4000
+    },
+    "dessert1": {
+      "name": "컵 케이크",
+      "price": 5000
+    },
+    "dessert2": {
+      "name": "양파 베이글",
+      "price": 4000
+    },
+    "image": "uploads/cafe18.jpg"
+  },
+  {
+    "id": "cafe19",
+    "name": "이디야커피",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "9:00-22:00",
+      "화": "9:00-22:00",
+      "수": "9:00-22:00",
+      "목": "9:00-22:00",
+      "금": "9:00-22:00",
+      "토": "9:00-22:00",
+      "일": "9:00-22:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 3200,
+    "lattePrice": 4200,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": null,
+      "franchise": 0,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "토피넛 라떼",
+      "price": 4200
+    },
+    "additionalMenu2": {
+      "name": "배 스무디",
+      "price": 3900
+    },
+    "dessert1": {
+      "name": "티라미수",
+      "price": 4400
+    },
+    "dessert2": {
+      "name": "치즈케이크",
+      "price": 4500
+    },
+    "image": "uploads/cafe19.jpg"
+  },
+  {
+    "id": "cafe20",
+    "name": "카페 모노브릭",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "10:00-22:00",
+      "화": "10:00-22:00",
+      "수": "10:00-22:00",
+      "목": "10:00-22:00",
+      "금": "10:00-22:00",
+      "토": "10:00-22:00",
+      "일": "10:00-22:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 3900,
+    "lattePrice": 4800,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "모노브릭 크림라떼",
+      "price": 5500
+    },
+    "additionalMenu2": {
+      "name": "딸기 스무디",
+      "price": 5700
+    },
+    "dessert1": {
+      "name": "흑임자갸또쇼콜라",
+      "price": 6700
+    },
+    "dessert2": {
+      "name": "바스크치즈케이크",
+      "price": 6700
+    },
+    "image": "uploads/cafe20.jpg"
+  },
+  {
+    "id": "cafe21",
+    "name": "스타벅스",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "7:00-22:00",
+      "화": "7:00-22:00",
+      "수": "7:00-22:00",
+      "목": "7:00-22:00",
+      "금": "7:00-22:00",
+      "토": "7:00-22:00",
+      "일": "7:00-22:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": null,
+      "franchise": 0,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "자몽허니블랙티",
+      "price": 5700
+    },
+    "additionalMenu2": {
+      "name": "자바칩프라푸치노",
+      "price": 6300
+    },
+    "dessert1": {
+      "name": "레드벨벳 크림치즈 케이크",
+      "price": 5500
+    },
+    "dessert2": {
+      "name": "블루베리 치즈케이크",
+      "price": 7900
+    },
+    "image": "uploads/cafe21.jpg"
+  },
+  {
+    "id": "cafe22",
+    "name": "753베이글 비스트로",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "10:00-19:00",
+      "화": "10:00-19:00",
+      "수": "10:00-19:00",
+      "목": "10:00-19:00",
+      "금": "10:00-19:00",
+      "토": "8:00-18:00",
+      "일": "8:00-18:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4000,
+    "lattePrice": 4500,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": 0,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "로얄밀크티",
+      "price": 5500
+    },
+    "additionalMenu2": {
+      "name": "히비스커스레몬에이드",
+      "price": 6000
+    },
+    "dessert1": {
+      "name": "베이글",
+      "price": 3900
+    },
+    "dessert2": {
+      "name": "크림치즈",
+      "price": 3300
+    },
+    "image": "uploads/cafe22.jpg"
+  },
+  {
+    "id": "cafe23",
+    "name": "메종그리즈",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "휴무",
+      "화": "8:00-20:00",
+      "수": "8:00-20:00",
+      "목": "8:00-20:00",
+      "금": "8:00-20:00",
+      "토": "10:00-21:00",
+      "일": "10:00-19:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 3800,
+    "lattePrice": 4200,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": 0,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "메이플크림라떼",
+      "price": 5200
+    },
+    "additionalMenu2": {
+      "name": "벨기에 초코라떼",
+      "price": 4500
+    },
+    "dessert1": {
+      "name": "수제 쿠키",
+      "price": 3400
+    },
+    "dessert2": {
+      "name": "바스크 치즈케이크",
+      "price": 6500
+    },
+    "image": "uploads/cafe23.jpg"
+  },
+  {
+    "id": "cafe24",
+    "name": "배배커피",
+    "outlets": "많음",
+    "operatingHours": {
+      "월": "11:00-23:00",
+      "화": "11:00-23:00",
+      "수": "11:00-23:00",
+      "목": "11:00-23:00",
+      "금": "11:00-23:00",
+      "토": "11:00-23:00",
+      "일": "11:00-23:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4300,
+    "lattePrice": 4800,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "배배라떼",
+      "price": 5300
+    },
+    "additionalMenu2": {
+      "name": "하겐프레소",
+      "price": 5500
+    },
+    "dessert1": {
+      "name": "헤이즐넛초코 보틀푸딩",
+      "price": 7000
+    },
+    "dessert2": {
+      "name": "소금빵",
+      "price": 3000
+    },
+    "image": "uploads/cafe24.jpg"
+  },
+  {
+    "id": "cafe25",
+    "name": "돌체스파지오",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "9:00-20:00",
+      "화": "9:00-20:00",
+      "수": "9:00-20:00",
+      "목": "9:00-20:00",
+      "금": "9:00-20:00",
+      "토": "9:00-20:00",
+      "일": "9:00-20:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 3000,
+    "lattePrice": 4000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "화이트코코넛딸기스무디",
+      "price": 5600
+    },
+    "additionalMenu2": {
+      "name": "타이밀크티",
+      "price": 4000
+    },
+    "dessert1": {
+      "name": "플레인와플",
+      "price": 3800
+    },
+    "dessert2": {
+      "name": "시나몬와플",
+      "price": 4000
+    },
+    "image": "uploads/cafe25.jpg"
+  },
+  {
+    "id": "cafe26",
+    "name": "마르티",
+    "outlets": "적음",
+    "operatingHours": {
+      "월": "12:00-22:00",
+      "화": "12:00-22:00",
+      "수": "휴무",
+      "목": "12:00-22:00",
+      "금": "12:00-22:00",
+      "토": "12:00-22:00",
+      "일": "12:00-22:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 5000,
+    "lattePrice": 5500,
+    "atmosphere": {
+      "dark": 0,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "마르티에이드(자몽에이드)",
+      "price": 6000
+    },
+    "additionalMenu2": {
+      "name": "그림자블랙라떼",
+      "price": 6500
+    },
+    "dessert1": {
+      "name": "블랙홀 휘낭시에",
+      "price": 4000
+    },
+    "dessert2": {
+      "name": "무질서케이크",
+      "price": 8500
+    },
+    "image": "uploads/cafe26.jpg"
+  },
+  {
+    "id": "cafe27",
+    "name": "언더우드커피로스터스",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "8:00-22:00",
+      "화": "8:00-22:00",
+      "수": "8:00-22:00",
+      "목": "8:00-22:00",
+      "금": "8:00-22:00",
+      "토": "10:00-22:00",
+      "일": "10:00-22:00"
+    },
+    "studyFriendly": null,
+    "americanoPrice": 4300,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": 0,
+      "dessert": null,
+      "franchise": null,
+      "forest": 0
+    },
+    "additionalMenu1": {
+      "name": "마스카포네 핑크솔트 크림라떼",
+      "price": 6500
+    },
+    "additionalMenu2": {
+      "name": "아몬드 크럼블라떼",
+      "price": 6800
+    },
+    "dessert1": {
+      "name": "고메버터바",
+      "price": 4500
+    },
+    "dessert2": {
+      "name": "스콘",
+      "price": 2800
+    },
+    "image": "uploads/cafe27.jpg"
+  },
+  {
+    "id": "cafe28",
+    "name": "따미커피",
+    "outlets": "X",
+    "operatingHours": {
+      "월": "11:00-22:00",
+      "화": "11:00-22:00",
+      "수": "11:00-22:00",
+      "목": "11:00-22:00",
+      "금": "11:00-22:00",
+      "토": "11:00-22:00",
+      "일": "11:00-22:00"
+    },
+    "studyFriendly": 0,
+    "americanoPrice": 4500,
+    "lattePrice": 5000,
+    "atmosphere": {
+      "dark": null,
+      "sensitive": null,
+      "dessert": 0,
+      "franchise": null,
+      "forest": null
+    },
+    "additionalMenu1": {
+      "name": "따미정원(아이스녹차라떼+더치커피)",
+      "price": 5500
+    },
+    "additionalMenu2": {
+      "name": "따미렌지(오렌지청+아이스카페라떼)",
+      "price": 5500
+    },
+    "dessert1": {
+      "name": "커스터드푸딩",
+      "price": 4000
+    },
+    "dessert2": {
+      "name": "레몬바",
+      "price": 4500
+    },
+    "image": "uploads/cafe28.jpg"
+  }
+]
